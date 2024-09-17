@@ -26,4 +26,3 @@ pub fn extract_audio(input_file: &str, output_file: &str) -> Result<(), std::io:
 
     Ok(())
 }
-
