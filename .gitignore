@@ -2,3 +2,4 @@
 /output_frames
 *.mp3
 /samples
+/output/*
